@@ -1,0 +1,6 @@
+{
+  "name": "BS AI Assistant",
+  "description": "A real-time, voice-to-voice AI assistant with a confident, witty, and sassy persona, interactive browser actions, and dark futuristic sound visuals.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
